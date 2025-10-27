@@ -26,11 +26,11 @@ Os resultados obtidos evidenciam que o rendimento médio real exerce influência
 
 ## Como Reproduzir
 Clone o repositório: 
-git clone https://github.com/seuusuario/nome-projeto.git
-cd nome-projeto
+git clone https://github.com/rafaella-moreira/Desafio-Zetta.git
+cd Desafio-Zetta
 
 Instale as dependências: 
 pip install -r requirements.txt
 
 Execute o notebook principal:
-jupyter notebook analise_socioeconomica.ipynb
+jupyter notebook analisedados.ipynb
