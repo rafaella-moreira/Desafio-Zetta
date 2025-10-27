@@ -1,0 +1,29 @@
+Modelo,Metrica,Valor
+Random Forest Regressor,Interceptor,-0.021734926
+Random Forest Regressor,R² (Treino),0.987181331
+Random Forest Regressor,R² (Teste),0.904398629
+Random Forest Regressor,Previsão 1,0.309511836
+Random Forest Regressor,Previsão 2,0.860496708
+Random Forest Regressor,Previsão 3,0.885494809
+Random Forest Regressor,Previsão 4,0.200994724
+Random Forest Regressor,Previsão 5,-0.02598004
+Random Forest Regressor,Valor Real 1,0.290345821
+Random Forest Regressor,Valor Real 2,0.825648415
+Random Forest Regressor,Valor Real 3,0.891930836
+Random Forest Regressor,Valor Real 4,0.285302594
+Random Forest Regressor,Valor Real 5,0.000000000
+Random Forest Regressor,MAE,0.09939043887785819
+Regressão Linear,Intercepto,-0.021734926
+Regressão Linear,R² (Treino),1.0
+Regressão Linear,R² (Teste),0.985724259
+Regressão Linear,Previsão 1,0.309511836
+Regressão Linear,Previsão 2,0.860496708
+Regressão Linear,Previsão 3,0.885494809
+Regressão Linear,Previsão 4,0.200994724
+Regressão Linear,Previsão 5,-0.02598004
+Regressão Linear,Valor Real 1,0.290345821
+Regressão Linear,Valor Real 2,0.825648415
+Regressão Linear,Valor Real 3,0.891930836
+Regressão Linear,Valor Real 4,0.285302594
+Regressão Linear,Valor Real 5,0.000000000
+Regressão Linear,MAE,0.02784253596930099
