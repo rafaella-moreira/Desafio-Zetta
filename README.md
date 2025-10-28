@@ -25,9 +25,11 @@ Os resultados obtidos evidenciam que o rendimento médio real exerce influência
 - Jupyter Notebook  
 
 ## Como Reproduzir
+Recomendado o uso da versão 3.11.9 do python
 Clone o repositório: 
 git clone https://github.com/rafaella-moreira/Desafio-Zetta.git
 cd Desafio-Zetta
+cd notebooks
 
 Instale as dependências: 
 pip install -r requirements.txt
