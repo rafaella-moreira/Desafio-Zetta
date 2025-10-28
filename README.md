@@ -31,8 +31,5 @@ git clone https://github.com/rafaella-moreira/Desafio-Zetta.git
 cd Desafio-Zetta
 cd notebooks
 
-Instale as dependências: 
-pip install -r requirements.txt
-
 Execute o notebook principal:
 jupyter notebook analisedados.ipynb

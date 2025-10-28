@@ -22,8 +22,6 @@ def preencher_media_por_estado(df, coluna_valor, coluna_estado):
     
     return df
 
-# limpeza.py
-
 
 def transformar_e_agregar_plano(df, coluna_estado="Estado", coluna_valor="Número de beneficiários de plano de saúde"):
     """
