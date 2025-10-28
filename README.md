@@ -21,15 +21,21 @@ Os resultados obtidos evidenciam que o rendimento médio real exerce influência
 
 ## Tecnologias Utilizadas
 - Python 3.14.0
+- Python 3.11.9
 - pandas, numpy, matplotlib, seaborn, scikit-learn, geopandas
 - Jupyter Notebook  
 
 ## Como Reproduzir
-Recomendado o uso da versão 3.11.9 do python
-Clone o repositório: 
+1. Recomendado o uso da versão 3.11.9 do python
+2. Clone o repositório: 
+```bash
 git clone https://github.com/rafaella-moreira/Desafio-Zetta.git
-cd Desafio-Zetta
-cd notebooks
-
-Execute o notebook principal:
+```
+3. Abra a aba do notebook:
+```bash
+ cd Desafio-Zetta/notebooks
+```
+4. Execute o notebook principal:
+```bash
 jupyter notebook analisedados.ipynb
+```
