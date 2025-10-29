@@ -1,0 +1,20 @@
+estado,indice_previsto_linear,classificacao
+São Paulo,1.0,alto
+São Paulo,0.956235363575316,alto
+São Paulo,0.8718324237047994,alto
+São Paulo,0.8538884374930105,alto
+São Paulo,0.833021196569217,alto
+Rio de Janeiro,0.5017626931868666,médio
+Rio de Janeiro,0.4955315652384925,médio
+Rio de Janeiro,0.3873609398295867,médio
+Rio de Janeiro,0.3686661666920946,médio
+Rio de Janeiro,0.34354062254972667,médio
+Minas Gerais,0.22983175696208835,baixo
+Minas Gerais,0.21353619475402985,baixo
+Minas Gerais,0.17286744013122013,baixo
+Minas Gerais,0.1720134075314891,baixo
+Minas Gerais,0.10558084624709808,baixo
+Espírito Santo,0.06769370795409596,baixo
+Espírito Santo,0.05996724360014263,baixo
+Espírito Santo,0.05781262488083023,baixo
+Espírito Santo,0.051300217019892666,baixo

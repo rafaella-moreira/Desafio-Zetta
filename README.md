@@ -20,7 +20,6 @@ O modelo de Regressão Linear apresentou um Erro Médio Absoluto (MAE) de 2,78%,
 Os resultados obtidos evidenciam que o rendimento médio real exerce influência significativa sobre os indicadores sociais, possibilitando a construção de um índice socioeconômico consistente e representativo para os estados da região Sudeste do Brasil.
 
 ## Tecnologias Utilizadas
-- Python 3.14.0
 - Python 3.11.9
 - pandas, numpy, matplotlib, seaborn, scikit-learn, geopandas
 - Jupyter Notebook  
@@ -35,7 +34,18 @@ git clone https://github.com/rafaella-moreira/Desafio-Zetta.git
 ```bash
  cd Desafio-Zetta/notebooks
 ```
-4. Execute o notebook principal:
+4. Execute o notebook:
+ - Análise e Exploração dos Dados:
+```bash
+jupyter notebook EDA.ipynb
+```
+ - Modelagem e Previsão dos Dados:
+```bash
+jupyter notebook model.ipynb
+```
+
+Ou para executar o arquivo completo:
+
 ```bash
 jupyter notebook analisedados.ipynb
 ```
